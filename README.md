@@ -15,18 +15,6 @@ The symptom data that patients enter in the VR app is transferred to a database 
 
 The application has three scenes: A main menu, a guided breathing exercise scene, and 3D body visual scene.
 
-### Screenshots
-
-The application begins with the main menu, which shows the patient a few options displayed against a relaxing background.
-
-![a screenshot of the application main menu](startmenu.png)
-
-The patient has the option to view an animation that encourages the user to breathe slowly and deeply. 
-![a screenshot of the breathing exercise scene](breathing.png)
-
-The application also provides a 3D body visual. The patient can click parts of the visual to indicate the areas of the body in which they are feeling pain.
-![a screenshot of the 3D body visual scene](body.png)
-
 ### Code
 
 You can find the code for our three scenes in the compressed unity files linked below. You must have the most recent version of Unity downloaded to be able to run these files.
@@ -36,4 +24,19 @@ https://umich.box.com/s/63d5trz51axzagtr24v4x2nj9fodpivl
 
 Breathing exercise scene:
 https://umich.box.com/s/8n1g3wlu0rgkr1mhidmr6x7chd16hcyv
+
+### Screenshots
+
+The application begins with the main menu, which shows the patient a few options displayed against a relaxing background.
+
+![a screenshot of the application main menu](startmenu.png)
+
+The patient has the option to view an animation that encourages the user to breathe slowly and deeply. 
+
+![a screenshot of the breathing exercise scene](breathing.png)
+
+The application also provides a 3D body visual. The patient can click parts of the visual to indicate the areas of the body in which they are feeling pain.
+
+![a screenshot of the 3D body visual scene](body.png)
+
 
